@@ -7,7 +7,7 @@ If you want to run and/or compile the scripts, AutoHotkey is required. The compi
 To download AutoHotkey visit http://www.autohotkey.com/
 <hr>
 
-#### Script List
+#### Scripts List
 
 #####[CSS Minifier](css-minifier)
-A script that compress CSS files (reduced dimension ~25%). It removes comments and all kind of spaces. Available script (.ahk), icon (.ico) and excecutable (.exe).
+A script that compresses CSS files (reduced dimension ~25%). It removes comments and any kind of spaces. Available script (.ahk), icon (.ico) and excecutable (.exe).
