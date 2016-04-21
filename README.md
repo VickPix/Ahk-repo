@@ -9,4 +9,4 @@ To download AutoHotkey visit http://www.autohotkey.com/
 
 #### Script List
 
-#####[css-minifier](CSS Minifier)
+#####[CSS Minifier](css-minifier)
