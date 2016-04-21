@@ -10,3 +10,4 @@ To download AutoHotkey visit http://www.autohotkey.com/
 #### Script List
 
 #####[CSS Minifier](css-minifier)
+A script that compress CSS files (reduced dimension ~25%). It removes comments and all kind of spaces. Available script (.ahk), icon (.ico) and excecutable (.exe).
